@@ -21,11 +21,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 # 🏢 Experience:
-### **Techvolt Pvt Ltd (July 2023 - Aug 2023) | Coimbatore, India**  
+### **Techvolt Pvt Ltd (July 2024 - Aug 2024) | Coimbatore, India**  
 - Developed a **responsive e-commerce platform** for food services using **HTML, CSS, JavaScript, and Bootstrap**.  
 - Integrated **Python and SQL** for backend functionalities, enhancing user experience.  
 
-### **Lenovo India (Sept 2023 - Sept 2023) | Pondicherry, India**  
+### **Lenovo India (Sept 2024 - Oct 2024) | Pondicherry, India**  
 - Hands-on training in **hardware manufacturing and quality control**.  
 - Contributed to **producing 90,000 laptops in 30 days**, improving teamwork and adaptability.  
 
