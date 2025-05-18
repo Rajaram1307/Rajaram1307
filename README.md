@@ -32,7 +32,15 @@
 ### **Book-My-Haven – Room Booking Website**  
 - **Frontend:** React.js | **Backend:** Java Spring Boot | **Security:** Spring Security  
 - Developed a **responsive room booking website** with **advanced filters by price, room size, and guest count.** Features include **dynamic room listings, image carousel, and booking form validation**.
-  
+
+  ## **GreenCart – Grocery Shopping Website**
+**Frontend:** React.js | **Data Management:** JSON-based dynamic filtering
+Created an intuitive grocery app that connects users to **nearby stores, enabling location-based product browsing with personalized filters and a clean, responsive UI**.
+
+## **Techniques to Reduce Electricity Bill**
+**Frontend:** React.js | **Features:** Dynamic calculator, interactive charts
+Built a comprehensive electricity consumption tool including a **bill calculator, unit-rate chart, and energy-saving tips** to help users reduce electricity costs effectively.
+
 ### **E-Commerce Website**  
 - **Frontend**: React.js | **State Management**: React Router, Local Storage  
 - Built a **responsive, secure food ordering platform** with **database management using Spring JPA**.  
