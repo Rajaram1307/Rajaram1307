@@ -1,7 +1,7 @@
 
 # Hello World! I'm Raja Ram, a Passionate Software Developer 👋🏼  
 
-💻 Currently a Computer Science Student at **M.I.E.T Engineering College, Trichy**  
+🎓 Graduate Computer Science Student at **M.I.E.T Engineering College, Trichy**  
 🔍 Looking for an **entry-level software development position**  
 🚀 Passionate about **Java, Python, Web Development, and AI**  
 
